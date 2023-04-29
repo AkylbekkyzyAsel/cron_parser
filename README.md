@@ -20,14 +20,7 @@ $ git clone https://github.com/your-username/cron-parser.git
 $ cd cron-parser
 ```
 
-3. *(Optional)* Set up a virtual environment:
-
-```
-$ python3 -m venv env
-$ source env/bin/activate
-```
-
-4. Install required dependencies:
+3. Install required dependencies:
 
 ```
 $ pip install -r requirements.txt
